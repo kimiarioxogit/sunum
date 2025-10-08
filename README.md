@@ -1,4 +1,3 @@
-# sunum
 ble 😜
 
 Github Reposu oluşturulur.

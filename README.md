@@ -1,3 +1,2 @@
 # sunum
-ble
 shmhmhmhmhm
